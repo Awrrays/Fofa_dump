@@ -21,8 +21,8 @@ usage = r'''
 '''
 helps = 'Please modify "EMAIL,KEY,query_string" before use...'
 
-EMAIL = 'djyunwei03@gmail.com'
-KEY = 'a5791f410ee810ec7421e1c2983f9344'
+EMAIL = ''
+KEY = ''
 query_string = ''
 
 result = []
